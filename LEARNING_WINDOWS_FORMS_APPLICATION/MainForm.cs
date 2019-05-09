@@ -7,27 +7,27 @@
 			InitializeComponent();
 		}
 
-		private void button1_Click(object sender, System.EventArgs e)
+		private void Button1_Click(object sender, System.EventArgs e)
 		{
 			System.Windows.Forms.MessageBox.Show("Hello, World!");
 		}
 
-		private void button2_Click(object sender, System.EventArgs e)
+		private void Button2_Click(object sender, System.EventArgs e)
 		{
 			System.Windows.Forms.MessageBox.Show("Hello, World!");
 		}
 
-		private void button3_Click(object sender, System.EventArgs e)
+		private void Button3_Click(object sender, System.EventArgs e)
 		{
 			System.Windows.Forms.MessageBox.Show("Hello, World!");
 		}
 
-		private void button4_Click(object sender, System.EventArgs e)
+		private void Button4_Click(object sender, System.EventArgs e)
 		{
 			System.Windows.Forms.MessageBox.Show("Hello, World!");
 		}
 
-		private void button5_Click(object sender, System.EventArgs e)
+		private void Button5_Click(object sender, System.EventArgs e)
 		{
 			System.Windows.Forms.MessageBox.Show("Hello, World!");
 		}
